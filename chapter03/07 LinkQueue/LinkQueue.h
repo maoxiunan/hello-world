@@ -13,7 +13,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>						//�ṩmalloc��realloc��free��exitԭ��
-#include "../../��01 ����/Status.h"		//**chapter01**//
+#include "../../chapter01/Status.h"		//**chapter01**//
 
 /* �������Ͷ��� */
 /* ��ģ�������Ŷӡ���������������洢���㷨�У�QElemType_L�����¶���*/

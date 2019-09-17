@@ -1,19 +1,19 @@
 /****************************************
  *                                      *
- * �ļ���: ��03 ջ�Ͷ���\09 BankQueuing *
+ * 文件夹: ▲03 栈和队列\09 BankQueuing *
  *                                      *
- * ��  ��: ģ�������Ŷ���غ�������     *
+ * 内  容: 模拟银行排队相关函数测试     *
  *                                      *
  ****************************************/
 
-#include "BankQueuing.c"			//**chapter03**//
+#include "BankQueuing.c"			//**▲03 栈和队列**//
 
-int main(int argc, char **argv)
+int main_c(int argc, char **argv)
 {
-	getchar();
-	Bank_Simulation_1();			//�㷨3.6	
+    getchar();
+    Bank_Simulation_1();			//算法3.6
 
-//	Bank_Simulation_2();			//�㷨3.7����һ���㷨 
-	
-	return 0;
+//	Bank_Simulation_2();			//算法3.7，另一种算法
+
+    return 0;
 }

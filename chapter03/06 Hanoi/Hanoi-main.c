@@ -8,7 +8,7 @@
 
 #include "Hanoi.c"						//**03 栈和队列**//
 
-int main(int argc, char **argv)
+int main_c(int argc, char **argv)
 {
     int n;
     char x = 'x';
